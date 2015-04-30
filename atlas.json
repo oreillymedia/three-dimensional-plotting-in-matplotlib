@@ -1,0 +1,43 @@
+{
+  "branch": "master",
+  "files": [
+    "README.md"
+  ],
+  "formats": {
+    "pdf": {
+      "version": false,
+      "index": false,
+      "toc": false,
+      "syntaxhighlighting": false,
+      "show_comments": false
+    },
+    "epub": {
+      "index": false,
+      "toc": false,
+      "epubcheck": false,
+      "syntaxhighlighting": false,
+      "show_comments": false
+    },
+    "mobi": {
+      "index": false,
+      "toc": false,
+      "syntaxhighlighting": false,
+      "show_comments": false
+    },
+    "html": {
+      "index": false,
+      "toc": false,
+      "syntaxhighlighting": false,
+      "show_comments": false,
+      "consolidated": false,
+      "javascripts": [
+        "http://rawgit.com/oreillymedia/thebe/master/static/main-built.js",
+        "page.js"
+      ]
+    }
+  },
+  "theme": "oreillymedia/jupyter_theme",
+  "title": "Three-dimensional Plotting in Matplotlib",
+  "github_url": "https://github.com/oreillymedia/three-dimensional-plotting-in-matplotlib",
+  "uuid": "904311f1-e9b8-4e11-94bc-3d7144899a32"
+}
